@@ -1,0 +1,7 @@
+﻿__pycache__/
+.runtime/
+.runtime_home/
+.streamlit/credentials.toml
+*.pyc
+*.log
+.DS_Store
